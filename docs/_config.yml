@@ -21,6 +21,6 @@ couleursPerso:
 nameLogo: weather_icon.png 
 themeVersion: 1 
 design: 1
-langs: [index.asciidoc,fr_FR,en_US,ru_RU,de_DE,es_ES,it_IT,id_ID] 
+langs: [fr_FR,en_US,ru_RU,de_DE,es_ES,it_IT,id_ID] 
 dateConversion: 2017-12-30-14h35 
 
