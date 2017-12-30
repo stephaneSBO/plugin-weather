@@ -5,8 +5,7 @@ key_do_not_edit_label:
     key_do_not_edit_btnAffiche: Déplier
     key_do_not_edit_btnMasquer: Cacher
 ---
-Configuration 
-=============
+# Configuration 
 
 Le plugin Weather permet de récupérer les données météorologiques pour
 une ou plusieurs villes. Il permet entre autre d’avoir les informations
@@ -14,8 +13,7 @@ de lever et coucher du soleil, de température, de prévision, de vent,
 etc. Les informations récupérées viennent du site internet
 openweathermap.
 
-Configuration du plugin 
------------------------
+# Configuration du plugin 
 
 Après avoir installé le plugin, il faut l’activer puis renseigner votre
 clef api/
@@ -30,8 +28,7 @@ configuration du Plugin.
 > Il faut attendre quelques heures ensuite le temps que la clef soit
 > active avant de pouvoir récupérer des informations
 
-Configuration des équipements 
------------------------------
+# Configuration des équipements 
 
 Vous retrouvez ici toute la configuration de votre équipement :
 
@@ -73,6 +70,8 @@ Le rafraîchissement des données météo s’effectue toutes les 30 minutes.
 > <https://openweathermap.org/city/2988507>. Ce numéro à la fin de l’url
 > peut également être saisi dans l’équipement Jeedom en lieu et place de
 > Paris,fr par exemple
+
+# Changelog
 
 Changelog détaillé :
 <https://github.com/jeedom/plugin-weather/commits/stable>
